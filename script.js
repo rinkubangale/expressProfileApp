@@ -1,6 +1,6 @@
 console.log("js connected");
-// const url = "https://randomuser.me/api/1.4/?nat=IN&gender=female";
-const url = "https://6xsrsv-3000.csb.app/api/user";
+const url = "https://randomuser.me/api/1.4/?nat=IN&gender=female";
+//const url = "https://6xsrsv-3000.csb.app/api/user";
 apiCall(url);
 
 async function apiCall(url) {
